@@ -1,3 +1,8 @@
+# OOP-ClassesDiagram-Design-I-Java
+Programación Orientada a Objetos (Java IntelliJ)
+
+ACTIVIDAD:
+
 Una empresa WoodShops se dedica a la venta de productos de madera y quiere gestionar el almacén de sus tiendas.
 
 La empresa dispone de una sede central y está compuesta por un conjunto de tiendas de forma que cada tienda tiene su propio almacén, es decir un almacén por tienda.
